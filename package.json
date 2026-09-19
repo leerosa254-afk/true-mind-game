@@ -1,0 +1,16 @@
+{
+  "name": "true-mind-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "중학교 사회정서교육용 실시간 마음 토너먼트",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
