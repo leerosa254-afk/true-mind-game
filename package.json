@@ -1,6 +1,6 @@
 {
   "name": "true-mind-game",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "private": true,
   "description": "중학교 사회정서교육용 실시간 마음 토너먼트",
   "main": "server.js",
